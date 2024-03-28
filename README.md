@@ -20,6 +20,7 @@ Make sure both files in the same directory
   
 # Documentation
 There are four options -c, -l, -m, and -w are used to specify what kind of counting operation you want to perform on a text file. Here's what each option does:
+
 -c: Counts the number of bytes in the file. It gives you the total size of the file in bytes.
 
 -l: Counts the number of lines in the file. It gives you the total number of lines present in the file.
