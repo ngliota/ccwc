@@ -1,6 +1,6 @@
 # Code Challenge Word Count (CCWC)
 I build my own word count challenge with java
-I don't even know how i can do it please do not edit
+I don't even know how i can do it please do not touch nor edit
 
 # Requirements
 1. Any computer could run this
@@ -35,4 +35,6 @@ Typescript language ccwc from @hiddenhenry
 
 # CREDITS
 Agung Siregar (github.com/ngliota)
+
+Thanks to
 Mr. Dimas Yudha Prawira
