@@ -3,14 +3,14 @@ I build my own word count challenge with java
 I don't even know how i can do it please do not touch nor edit
 
 # Requirements
-1. Any computer could run this
+1. Any java installed computer could run this
 2. You have to download the ccwc.java
-3. You need .txt files to check
+3. You need .txt files to test check
 4. Make sure the file in the same directory
    
 # Instructions
 Make sure both files in the same directory 
-- Create executable jar file put it in Command Prompt
+- Create executable jar file put it in Command Prompt and make sure to move the directory to where you save the files
   "javac ccwc.java"
   
 - Run the Program
