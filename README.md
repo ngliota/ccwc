@@ -34,7 +34,7 @@ Typescript language ccwc from @hiddenhenry
 (https://medium.com/@hiddenhenry/coding-challenges-1-write-your-own-wc-tool-bec660ac61da)
 
 # CREDITS
-Agung Siregar (github.com/ngliota)
+Agung Siregar [@ngliota](https://www.github.com/ngliota)
 
 Thanks to
 Mr. Dimas Yudha Prawira
