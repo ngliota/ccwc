@@ -17,6 +17,7 @@ Make sure both files in the same directory
   "java ccwc <option> <filename>"
   
 - View the output
+  ![image](https://github.com/ngliota/ccwc/assets/107844893/f9005f5c-e187-46eb-8e4c-c2f501cc86d4)
   
 # Documentation
 There are four options -c, -l, -m, and -w are used to specify what kind of counting operation you want to perform on a text file. Here's what each option does:
